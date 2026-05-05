@@ -1,4 +1,7 @@
 # Yaca Voice Lua version für die süßen <3 | als seins verkaufen gibt nackenklatscher
+![](https://img.shields.io/github/downloads/mattibat/yaca-voice/total?logo=github)
+![](https://img.shields.io/github/downloads/mattibat/yaca-voice/latest/total?logo=github)
+![](https://img.shields.io/github/contributors/mattibat/yaca-voice?logo=github)
 ## [yaca.systems](https://yaca.systems/) for [FiveM](https://fivem.net/) & [RedM](https://redm.net/)
 
 This is a example implementation for [FiveM](https://fivem.net/) & [RedM](https://redm.net/).
