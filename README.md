@@ -21,3 +21,5 @@ Before you start, make sure you have OneSync enabled and your server artifacts a
 This Version of the yaca-voice System (lua version) its Highly Experimental, and usage on large scale servers isnt recommended at the moment. Also there can be a lot of bugs since this script wasnt tested on RedM and not properly tested on FiveM.
 
 This Script is mainly for Developers who can improve the system for there own purposes and want a better performing voice system then the typescript version since the lua version only uses about 0.01ms clientside in idle, and about 0.05ms used.
+
+If you see any bugs, contact me on discord: matti.bat
