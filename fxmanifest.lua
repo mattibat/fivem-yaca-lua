@@ -3,9 +3,9 @@ games { 'gta5', 'rdr3' }
 lua54 'yes'
 rdr3_warning 'I acknowledge that this is a prerelease build of RedM, and I am aware my resources *will* become incompatible once RedM ships.'
 
-author 'MineMalox, LuftigerLuca & C0kkie - lua version '1.0.1'
+author 'MineMalox, LuftigerLuca & C0kkie - lua by mattibat'
 version '1.0.1'
-description 'YACA Voice Integration for FiveM & RedM - lua version '1.0.1'
+description 'YACA Voice Integration for FiveM & RedM - lua (Highly Experimental, so expect bugs))'
 
 dependencies {
     '/server:7290',
