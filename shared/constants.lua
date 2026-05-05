@@ -1,0 +1,5 @@
+YACA_STATE_VOICE_RANGE = "yacaVoiceRange"
+YACA_STATE_LIP_SYNC = "yacaLipSync"
+YACA_STATE_MEGAPHONE = "yacaMegaphone"
+YACA_STATE_PHONE_SPEAKER = "yacaPhoneSpeaker"
+YACA_STATE_GLOBAL_ERROR_LEVEL = "yacaGlobalErrorLevel"

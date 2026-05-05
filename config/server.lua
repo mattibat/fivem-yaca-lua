@@ -1,0 +1,15 @@
+YacaServerConfig = {
+    uniqueServerId = "your-unique-server-id", -- The unique Server Identifier of the Teamspeak-Server
+    ingameChannelId = 123123, -- The ID of the Ingame Channel
+    ingameChannelPassword = "", -- The Password used to join the Ingame Channel
+    defaultChannelId = 123123, -- The ID of the Channel where a players should be moved to when leaving Ingame
+    useWhisper = true, -- If you want to use the Whisper functions of TeamSpeak, if set to false it mutes and unmutes the players
+    excludeChannels = {}, -- The channels that should be able to join while being Ingame without instantly being moved back into the Ingame channel
+    userNamePattern = "[{serverid}]{guid}", -- The pattern that is used to generate the username
+    --[[
+       * Following placeholders will be replaced:
+   * - {serverid} with the Ingame-ID of the player
+   * - {playername} with the steam/fivem name of the player
+   * - {guid} with a string containing random letters and digits.
+    ]]
+}
