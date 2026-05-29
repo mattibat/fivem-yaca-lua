@@ -1,4 +1,4 @@
-# Yaca Voice Lua version für die süßen <3 | als seins verkaufen gibt nackenklatscher
+# Yaca Voice Lua version für die süßen <3
 ![](https://img.shields.io/github/downloads/mattibat/yaca-voice/total?logo=github)
 ![](https://img.shields.io/github/downloads/mattibat/yaca-voice/latest/total?logo=github)
 ![](https://img.shields.io/github/contributors/mattibat/yaca-voice?logo=github)
@@ -25,4 +25,4 @@ This Version of the yaca-voice System (lua version) its Highly Experimental, and
 
 This Script is mainly for Developers who can improve the system for there own purposes and want a better performing voice system then the typescript version since the lua version only uses about 0.01ms clientside in idle, and about 0.05ms used.
 
-If you see any bugs, contact me on discord: matti.bat
+If you see any bugs, contact me on discord: matti.bat or use the official [Yaca Discord](http://discord.yaca.systems/)
